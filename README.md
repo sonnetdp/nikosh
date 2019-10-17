@@ -7,7 +7,7 @@ Nikosh, the popular Bangla Unicode font first choice of Bangladesh Government fo
 ## How To Use
 Simple add the following line to HTML.
 
-``` <link href='http://github.com/sonnetdp/nikosh/css/nikosh.css' rel='stylesheet' type='text/css'> ```
+``` <link href='http://sonnetdp.github.io/nikosh/css/nikosh.css' rel='stylesheet' type='text/css'> ```
 And then set the following CSS to the target element.
 
 ```
