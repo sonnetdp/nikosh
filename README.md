@@ -12,6 +12,6 @@ And then set the following CSS to the target element.
 
 ```
 .container {
-    font-family: 'Arial','Nikosh',sans-serif;
+    font-family: 'Nikosh',sans-serif;
 }
 ```
