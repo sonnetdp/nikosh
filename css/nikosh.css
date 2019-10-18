@@ -1,7 +1,23 @@
-@font-face {
-    font-family: 'Nikosh';
-    src: local('Nikosh'),
-         url('../fonts/Nikosh.ttf') format('truetype'),
-         url('../fonts/Nikosh.woff') format('woff'),
-         url('../fonts/Nikosh.woff2') format('woff2');
+    @font-face {
+        font-family: 'Nikosh';
+        src: url('../fonts/Nikosh.eot');
+        src: url('../fonts/Nikosh.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/Nikosh.woff2') format('woff2'),
+             url('../fonts/Nikosh.woff') format('woff'),
+             url('../fonts/Nikosh.ttf') format('truetype'),
+             url('../fonts/Nikosh.svg#Nikosh') format('svg');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    @font-face {
+        font-family: 'Nikosh';
+        src: url('../fonts/Nikosh_1.eot');
+        src: url('../fonts/Nikosh_1.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/Nikosh_1.woff2') format('woff2'),
+             url('../fonts/Nikosh_1.woff') format('woff'),
+             url('../fonts/Nikosh_1.ttf') format('truetype'),
+             url('../fonts/Nikosh_1.svg#Nikosh') format('svg');
+        font-weight: normal;
+        font-style: normal;
     }
