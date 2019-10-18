@@ -1,6 +1,7 @@
 @font-face {
-    font-family: Nikosh;
+    font-family: 'Nikosh';
     src: local('Nikosh'),
+         url('../fonts/Nikosh.ttf') format('truetype'),
          url('../fonts/Nikosh.woff') format('woff'),
          url('../fonts/Nikosh.woff2') format('woff2');
     }
